@@ -1,0 +1,41 @@
+/*!
+ * Start Bootstrap - 1 Col Portfolio HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+/* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes.
+Interfere no layout padrão
+body {
+    padding-top: 70px; 
+}
+ */
+
+footer {
+    margin: 50px 0;
+}
+
+.est-image {
+	width:400px;
+	height:300px;
+  	background-repeat:no-repeat;
+  	background-size:cover;
+}
+
+div > a > img {
+	height: auto;
+	width: auto;
+	max-height: 100%;
+  	max-width: 100%;
+}
+
+div h2 {
+	color: black;
+}
+
+p {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 200px;
+}
